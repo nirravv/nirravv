@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, Django, Express.js, Node.js, React, Self-hosting... or anything [here](https://github.com/nirravv/nirravv/issues)**
 
-⚡ Fun fact **Did you know that the first computer mouse was made of wood? It was invented by Doug Engelbart in 1964 and had a wooden shell, metal wheels, and a single button.**
+⚡ Fun fact **Did you know that the first 1GB hard drive, released in 1980 by IBM, weighed over 500 pounds and cost $40,000?**
 
  </div>
  
