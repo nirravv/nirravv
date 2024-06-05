@@ -56,8 +56,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=nirravv&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
+ <img width=390 src="https://github-readme-stats.vercel.app/api?username=nirravv&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="github stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nirravv&theme=vue-dark&hide_border=true" alt="streak stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirravv&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
