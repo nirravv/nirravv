@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on My **[Cron-Commander](https://github.com/nirravv/Cron-Commander)** Project.
+ 🔭 I’m currently working on [bash](https://github.com/nirravv/bash) , [powershell](https://github.com/nirravv/powershell-scripts) and [ansible](https://github.com/nirravv/ansible) Projects.
  
  🌱 I’m currently learning **expressjs, Nodejs**
 
